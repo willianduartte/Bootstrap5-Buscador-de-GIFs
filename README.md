@@ -7,7 +7,7 @@
 </p>
 <img src="Buscador de Gif.gif" />
 <p align='center'>
-    <a href="https://willianduartte.github.io/DoctorCare/">Clique aqui para Testar o app</a>
+    <a href="https://willianduartte.github.io/Buscador-de-GIFs/">Clique aqui para Testar o app</a>
 </p>
 
 # Tecnologias
