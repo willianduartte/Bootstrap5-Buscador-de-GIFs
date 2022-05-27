@@ -27,9 +27,12 @@
     </header>
     <main>
       <div class="p-5 mb-4 bg-light rounded-3 text-center">
-        <Section class="container-fluid py-5">
+        <div class="header">
           <h3 class="display-5 fw-bold">O que você procura?</h3>
-          <input type="search" placeholder="Digite algo..." class="form-control busca margin-top" value="" />
+        </div>
+        <Section class="container-fluid py-3">
+          <input type="search" placeholder="Digite algo..." class="form-control busca" value="" />
+          <button class="btn btn-primary" onclick="loadGifs()">Buscar</button>
         </Section>
       </div>
       
