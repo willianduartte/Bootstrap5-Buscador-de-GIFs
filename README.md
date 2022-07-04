@@ -6,9 +6,9 @@
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#Ideias">Ideias de Procura</a>
 </p>
 <img src="Buscador de Gif.gif" />
-<p align='center'>
+<h1 align='center'>
     <a href="https://willianduartte.github.io/Bootstrap5-Buscador-de-GIFs/">Clique aqui para Testar o app</a>
-</p>
+</h1>
 
 # Tecnologias
 
